@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  box-sizing: border-box;
+}
+.nav {
+  background: 
+  margin-top: 58px;
+}
+.container {
+  width: 1420px;
+  margin: auto;
+  background: #1391ceb2;
+  padding: 24px 160px;
+}
+.nav__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav__list {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+  align-items: center;
+}
+.nav__list li {
+  font-weight: 382px;
+}
+.nav__list li a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav__list__btn > button {
+  padding: 9px 18px;
+  gap: 10px;
+  border: none;
+  border-radius: 24px;
+  color: #000;
+  background: fff;
+  font-weight: 530px;
+  font-size: 16px;
+}
+
+.hero__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero__text {
+  padding: 98px 60px 24px 0px;
+  
+}
+.hero__text__title {
+  font-size: 92px;
+  font-weight: 700px;
+  color: #25468a;
+}
+.hero__text__info {
+  font-size: 26px;
+  font-weight: 400px;
+  color: #3b4a6b;
+  padding: 8px 0px 46px 0px;
+}
+.hero__text__detailed {
+  font-size: 20px;
+  font-weight: 400px;
+  color: #3b4a6b;
+}
+.hero__text__btn {
+  display: block;
+  margin-top: 24px;
+  padding: 15px 85px;
+  border-radius: 26px;
+  gap: 10px;
+  background: #f7ba0e;
+  color: #3B4A6B;
+
+}
+.hero__text__btn > button {
+    font-size: 18px;
+    font-weight: 500px;
+}
+.hero__img {
+  width: 100%;
+ height: 318px;
+}
+.ser__container {
+    width: 1420px;
+    margin: auto;
+    background: #9dcee732;
+    padding: 24px 160px;
+}
+.service__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.service__menu__list {
+width: 352px;
+height: 189px;
+color: #fff;
+background: #1391CE;
+border-radius: 8px 8px;
+margin-top: 176px;
+}
+.service__menu__list > p {
+    font-size: 20px;
+    font-weight: 700px;
+    text-align: center;
+    padding: 70px;
+}
+.hand__container {
+    width: 1420px;
+    margin: auto;
+    background: #9dcee732;
+}
+.handbrake__wrapper {
+
+}
+handbrake__page__img{
+
+}
+.handbrake__text{
+    margin: ;
+    padding: 98px 60px 24px 0px;
+}
+
+.handbrake__text__title{
+    font-size: 36px;
+    font-weight: 300px;
+    color: #25468a;
+    text-align: center;
+    border-radius: 1.5px;
+}
+.handbrake__text__info {
+
+}
